@@ -14,7 +14,7 @@ For support, you can reach out to me via email.
 Also, you can check out my youtube channel for coding explanation. 
 
 ## Roadmap
-Future improvements may include random walk exercise that mimicks living organism as well as pacman exercise.  
+Future improvements may include random walk exercise that mimicks living organism as well as pacman exercise that also goes in the y direction.  
 
 ## License
 This project is licensed through MIT XPRO Web Development certificate course. 
